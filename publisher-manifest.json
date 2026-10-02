@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "9e360760dabdb03ae7c0beec",
+  "owner": "dsqtbfarhge",
+  "repo": "page-dde264925bcb2e117f73a96c",
+  "title": "LoxCloud",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "dde264925bcb2e117f73a96c",
+      "a": "LoxCloud",
+      "b": "",
+      "entity": "LoxCloud",
+      "brand": "LoxCloud",
+      "separator": "",
+      "path": "index.html",
+      "hash": "9f5db1619e803c12f6b793ac205df6ccf142306dcd01e2c0b4c9406d27ecc736",
+      "content": {
+        "keyword1": "LoxCloud",
+        "keyword2": "",
+        "primary_entity": "LoxCloud",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "LoxCloud是可靠的VPN机场服务商，提供基础到团队多档套餐、官方客户端下载及订阅导入教程，覆盖流媒体、游戏与办公加速场景。",
+          "AI_DESCRIPTION": "LoxCloud是可靠的VPN机场服务商，提供基础到团队多档套餐、官方客户端下载及订阅导入教程，覆盖流媒体、游戏与办公加速场景。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html{overflow-x:hidden}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,sans-serif;font-size:16px;line-height:1.65;color:#12263a;background:#f2f7fa;margin:0}header{background:#072240;color:#e0f7fa;padding:18px 12px;text-align:center}header .brand{font-size:1.5rem;font-weight:700;color:#00e5ff}nav{margin-top:10px;display:flex;flex-wrap:wrap;justify-content:center;gap:8px}nav a{color:#80deea;text-decoration:none;font-size:0.9rem;padding:4px 8px}main{max-width:680px;margin:0 auto;padding:12px 16px 40px}h1{font-size:1.7rem;color:#072240;margin:18px 0 10px;line-height:1.3}h2{font-size:1.32rem;color:#0a3d62;margin:26px 0 10px;padding-left:10px;border-left:5px solid #00acc1}h3{font-size:1.08rem;color:#01579b;margin:14px 0 6px}.intro{background:#fff;padding:16px;border-radius:6px;border:1px solid #b2ebf2}.plan{background:#fff;border:1px solid #4dd0e1;border-radius:8px;padding:14px 16px;margin:14px 0}.plan.featured{border-width:2px;border-color:#00bcd4;background:#e0f7fa}.plan h3{margin-top:0;color:#006064}.price{font-size:1.25rem;font-weight:700;color:#00838f}.annual{font-size:0.9rem;color:#455a64;margin:4px 0 8px}.feat{margin:4px 0;font-size:0.95rem}.steps .step{background:#fff;margin:10px 0;padding:14px;border-radius:0 6px 6px 0;border-left:5px solid #00838f}.step b{color:#00695c;display:block;margin-bottom:4px}details{margin:10px 0;border:1px solid #4dd0e1;border-radius:6px;background:#fff}summary{padding:12px 14px;font-weight:600;color:#0277bd;background:#e0f7fa}details p{padding:12px 14px;margin:0;font-size:0.95rem;color:#263238}.faq-wrap{background:#e8f8f9;padding:8px 12px 16px;border-radius:8px;margin:16px 0;border:1px dashed #00acc1}footer{background:#072240;color:#b2ebf2;padding:20px 16px;font-size:0.85rem;text-align:center}footer a{color:#4dd0e1;text-decoration:none;margin:0 6px}.ad{background:#fff8e1;border:1px solid #ffe082;padding:12px;margin:16px 0;font-size:0.9rem;color:#5d4037}.links a{display:inline-block;margin:4px 8px 4px 0;color:#00838f;text-decoration:none}p{margin:8px 0}ul{margin:8px 0 8px 20px}@media(max-width:480px){h1{font-size:1.45rem}nav a{font-size:0.84rem}}</style><header><div class=\"brand\">LoxCloud</div><nav><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐方案</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></header><main><h1>LoxCloud 官方网站</h1><p>LoxCloud 提供机场订阅与 VPN 网络加速，支持多端官方客户端下载、节点导入和稳定跨境访问。</p><section id=\"intro\"><h2>品牌简介</h2><div class=\"intro\"><p>LoxCloud 是面向个人用户与小团队的跨境网络加速机场，以自建及优化线路提供加密隧道服务。我们聚焦连接可用性、流媒体兼容与游戏线路质量，通过官网统一管理订阅与客户端指引。</p><p>服务覆盖香港、日本、新加坡、美国与欧洲等方向，部分节点采用 IPLC 内网专线以降低跨境抖动。官方承诺仅统计套餐用量，不保存浏览内容。所有套餐均为本站直销，请通过 LoxCloud 官网完成注册、支付与下载，避免非官方渠道。</p></div></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体与内容访问</h3><p>在旗舰版与团队版节点上观看国际流媒体、视频平台与公开课程，减少缓冲并支持常见解锁需求。基础版覆盖基础流媒体线路。</p><h3>远程办公与开发协作</h3><p>稳定访问代码托管、文档、会议与云服务，适合需要长期在线的远程工作与学术检索。</p><h3>游戏加速</h3><p>针对国际服与热门游戏提供优化线路，旗舰版含 IPLC 游戏向节点，用于降低延迟与丢包。</p><h3>多设备同时在线</h3><p>手机、电脑与平板按套餐设备数同时连接，出行或家庭共享时保持同一订阅。</p><h3>团队协作出口</h3><p>团队版提供更高流量与设备上限，可配合定制路由，供小型工作室统一出口。</p></section><section id=\"plans\"><h2>套餐方案</h2><p>以下为官网当前在售档位，年付更优惠。流量为每月重置的极速额度，超出后可升级。具体以结算页为准。</p><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><p class=\"feat\">每月 100GB 极速流量</p><p class=\"feat\">支持 3 台设备同时在线</p><p class=\"feat\">解锁基础流媒体</p><p class=\"feat\">普通线路节点池</p></article><article class=\"plan featured\"><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><p class=\"feat\">每月 300GB 极速流量</p><p class=\"feat\">支持 5 台设备同时在线</p><p class=\"feat\">全节点原生流媒体解锁</p><p class=\"feat\">IPLC 专线游戏加速优化</p><p class=\"feat\">7x24 优先工单支持</p></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><p class=\"feat\">每月 1000GB 极速流量</p><p class=\"feat\">支持 20 台设备同时在线</p><p class=\"feat\">VIP 专属高带宽节点</p><p class=\"feat\">支持企业定制路由</p><p class=\"feat\">专属客户经理服务</p></article></section><div class=\"ad\">广告位：LoxCloud 官网活动与套餐说明仅在本站用户中心展示。请勿通过陌生链接付款或下载客户端。</div><section id=\"guide\"><h2>操作说明</h2><p>按下列纵向步骤即可完成从注册到连接。全程在 LoxCloud 官网与官方推荐客户端内操作。</p><div class=\"steps\"><div class=\"step\"><b>第一步：打开官网并注册</b>使用常用邮箱在 LoxCloud 官方网站注册并登录用户中心，开启二次验证更安全。</div><div class=\"step\"><b>第二步：选择套餐完成订阅</b>对照流量与设备数量选择基础版、旗舰版或团队版，月付或年付下单。</div><div class=\"step\"><b>第三步：复制机场订阅地址</b>支付到账后在订阅管理页复制 Clash 或通用订阅链接，勿泄露给他人。</div><div class=\"step\"><b>第四步：下载对应客户端</b>根据 Windows、macOS、Android 或 iOS 下载推荐客户端，仅使用用户中心或可信开源仓库。</div><div class=\"step\"><b>第五步：导入订阅并连接</b>客户端内粘贴订阅、更新节点，选择延迟较低的线路开启系统代理或 VPN 模式。</div></div></section><section id=\"download\"><h2>客户端下载</h2><p>LoxCloud 不捆绑闭源安装包，推荐使用社区广泛验证的客户端。登录官网后可在用户中心查看版本说明。请勿从网盘或来路不明站点获取文件。</p><h3>Windows</h3><p>可使用 v2rayN 或 Clash Verge 导入订阅。安装后选择规则模式，国内站点直连、境外走代理。</p><h3>macOS</h3><p>可使用 ClashX 系列或自行购买的 Surge。导入后开启菜单栏开关即可。</p><h3>Android</h3><p>推荐 Clash Meta 或 v2rayNG。允许 VPN 权限后更新订阅再连接。</p><h3>iOS</h3><p>常用 Shadowrocket 或 Stash，需在对应区账户购买应用后导入订阅。按提示添加 VPN 配置。</p><p>各端均支持同一订阅链接。若节点列表为空，请检查复制是否完整、系统时间是否准确。</p></section><section><h2>节点与加速说明</h2><p>线路以亚洲近端与北美、欧洲远程搭配，部分为 IPLC 专线，用于降低跨境抖动。实际速度受本地运营商与时段影响，官网不承诺固定带宽数值。旗舰及以上套餐优先分配高带宽与游戏向节点，并开放工单加急。</p><p>分流规则可实现国内直连。流媒体与常见 AI 服务在对应套餐的原生解锁节点上可用性更好，遇到限制时切换节点即可。</p></section><div class=\"faq-wrap\" id=\"faq\"><h2>常见问题</h2><details><summary>LoxCloud 机场是什么？和普通 VPN 有何不同？</summary><p>LoxCloud 是订阅制机场服务：购买套餐后获得节点列表与流量额度，在自选客户端中导入即可使用。相比单一 App 式 VPN，机场更灵活，可更换客户端、自定义分流，并按流量与设备档位计费。官方网站是唯一订阅与说明入口。</p></details><details><summary>如何安全下载客户端并导入订阅？</summary><p>先在 LoxCloud 官网完成订阅，复制链接。再按系统下载 v2rayN、Clash 系、Shadowrocket 等常见客户端。打开客户端选择从 URL 更新订阅，成功后选择节点连接。不要安装来源不明的修改版。</p></details><details><summary>三个套餐如何选择？流量与设备不够怎么办？</summary><p>轻度浏览可选基础版（100GB / 3 设备）。需要完整流媒体、游戏加速与优先支持选旗舰版。多人共用选团队版。用量不足可在用户中心随时升级，设备超限时先断开闲置终端或升档。</p></details><details><summary>节点连不上或很慢应怎样排查？</summary><p>确认订阅已更新、客户端为规则或全局中的合适模式、系统时间正确。尝试切换 IPLC 或备用地区节点，关闭冲突代理软件。仍异常时，旗舰与团队用户可通过工单获得优先处理。</p></details><details><summary>是否支持退款、发票与企业路由？</summary><p>未使用或符合规则的订单可按官网说明申请处理，发票与对公信息在用户中心提交。团队版支持定制路由与专属客户经理，适合需要固定出口策略的小团队。具体条款以购买页公示为准。</p></details><details><summary>LoxCloud 会记录我的访问内容吗？</summary><p>官方实行无内容日志策略，仅保留套餐流量计量与必要的账号安全信息，用于计费与防滥用。传输过程加密。请保护好自己的订阅链接，避免被他人滥用导致流量耗尽。</p></details></div><section><h2>友情链接</h2><div class=\"links\"><a href=\"#\">开源客户端说明</a><a href=\"#\">分流规则入门</a><a href=\"#\">隐私与加密基础</a><a href=\"#\">IPLC 线路科普</a></div></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer>© LoxCloud 官方网站 保留所有权利<br>网站地图：<a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐</a><a href=\"#guide\">步骤</a><a href=\"#download\">下载</a><a href=\"#faq\">问答</a><br>请通过本站域名访问官网并完成客户端下载与机场订阅。</footer>",
+          "hash": "75ab0feaf9af37bb82a6a28a1bab7315e1517c80d086e86d2891f822ec2a7750",
+          "seo": {
+            "title": "LoxCloud官网 - VPN机场订阅、网络加速器与客户端下载",
+            "keywords": "LoxCloud,LoxCloud机场,LoxCloud VPN,LoxCloud官网下载,机场订阅,VPN客户端,网络加速器,梯子加速,流媒体解锁,IPLC专线",
+            "description": "LoxCloud是可靠的VPN机场服务商，提供基础到团队多档套餐、官方客户端下载及订阅导入教程，覆盖流媒体、游戏与办公加速场景。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "er8y.cn",
+    "host": "p-a2a7922b5f.er8y.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "er8y.cn",
+      "url": "https://er8y.cn/",
+      "label": "X",
+      "apex": "er8y.cn",
+      "kind": null,
+      "identity": "txadscvfa/page-b85d6820669813d4951d4a8b"
+    },
+    {
+      "host": "bbjrk.cn",
+      "url": "https://bbjrk.cn/",
+      "label": "LoxCloud",
+      "apex": "bbjrk.cn",
+      "kind": null,
+      "identity": "ykgdschrtj/page-00cb5150336c49e7db6ce6e6"
+    },
+    {
+      "host": "jqweatg.cn",
+      "url": "https://jqweatg.cn/",
+      "label": "LoxCloud",
+      "apex": "jqweatg.cn",
+      "kind": null,
+      "identity": "bxfexj6h/page-22bd04142c8eed6d7d400562"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "e177cbfee5830c25dabfc47a0adf852a3b657df4654add77338db2763f319a8d",
+    "sitemap.xml": "523b60ae1c26945edd4a015a1ff7bfa9077977bc6a914eebfc1c4a0ffa301271",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2ba11f1dc392fe8df5bcf77fcc21f62e7a94855eedc9afbd94fdb37428a33f0c",
+    "robots.txt": "edd047839be2ffa07510a6f0ba83f613967487ca8f216a130a2afafdc55822ef",
+    "39086bc20c644f8dfd1e4f2d78a4ba57.txt": "6107c9ee967cce2bce07d340b8698cabd6b23beb143da2d38594f2b9ac8cf7f7"
+  },
+  "revision": "57e1984348f8778560fe399ce301c3f44592602ba8cee99888e2dd67bfae40c7"
+}
